@@ -6,7 +6,7 @@
 </p>
 
 ## Overview
-This set of workflows as [SimStack Workflow](Simstack%20Workflow/) and [KNIME Workflow](KNIME%20Workflow/) in combination enables high-throughput 
+This set of workflows as [SimStack Workflow](SimStack%20Workflow/) and [KNIME Workflow](KNIME%20Workflow/) in combination enables high-throughput 
   1. generation of atomistic models of a chromatography resin, based on user selection of building block types and densities
   2. investigates the adsorption against target molecules, a selection of peptides as in the example
 _in silico_ experiments to test the chromatographic performance of the designer resin.
