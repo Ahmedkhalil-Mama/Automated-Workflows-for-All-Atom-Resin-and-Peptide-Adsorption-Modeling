@@ -1,4 +1,4 @@
-# KNIIME Workflow: Binding Poses and Energies Calculation of Linear Peptides
+# KNIME Workflow: Binding Poses and Energies Calculation of Linear Peptides
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5c8fc319-423b-461e-9fae-daf64e3deb6c" alt="workflow image" width="400" height="auto" />
