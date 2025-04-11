@@ -50,7 +50,7 @@ As inputs,
 -  the system dimensions are defined by the user in WaNo **CG-Polymerisation** in the unit of nanometers
 
 As output,
-- The all-atom polymer network structure is downloadable in MOL2 data formats, which can subsequently be used as input to Maestro Schrödinger software in the follow-through [KNIME workflow](../'KNIME Workflow'/).
+- The all-atom polymer network structure is downloadable in MOL2 data formats, which can subsequently be used as input to Maestro Schrödinger software in the follow-through [KNIME workflow](./../KNIME%20Workflow/).
 
 A complete example, starting with 690 DHPMA monomers, 260 EGDMA crosslinkers, and 500 Q ligands with 4 -CH2- spacer units, in a simulation box size of 15x15x24 cubic nanometers, is included with all intermediate results in the [Example folder](https://bwsyncandshare.kit.edu/s/Zt4Lei3AjPxxrDi). The final MOL2 format output of the GenChromatographyResin is located in the [data of WaNo **Output_AA-Structure**](https://bwsyncandshare.kit.edu/s/QFikWerc2Cz6qnP).
 
