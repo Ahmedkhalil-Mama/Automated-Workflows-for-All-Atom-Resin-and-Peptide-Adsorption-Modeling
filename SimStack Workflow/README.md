@@ -1,4 +1,4 @@
-# Simstack Workflow: GenChromatographyResin for generating atomistic models for chromatography resins
+# SimStack Workflow: GenChromatographyResin for generating atomistic models for chromatography resins
 
 # Table of contents
 - [Aims](#Aims)
